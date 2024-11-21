@@ -1,1 +1,1 @@
-helllo dudu bubu
+echo > "helllo dudu bubu"
